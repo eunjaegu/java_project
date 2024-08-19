@@ -1,0 +1,268 @@
+
+4월 08, 2024 18:19:51.620 NEW SESSION
+4월 08, 2024 18:19:51.620 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 08, 2024 18:25:23.435 NEW SESSION
+4월 08, 2024 18:25:23.435 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 08, 2024 18:53:34.939 [20296:16768:0408/185334.939:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 08, 2024 19:47:21.575 [20296:16768:0408/194721.575:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+
+4월 08, 2024 20:10:12.198 NEW SESSION
+4월 08, 2024 20:10:12.198 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 08, 2024 20:19:02.490 [13288:5380:0408/201902.490:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.191 s for first_image_paint 0.175 s
+4월 08, 2024 20:19:02.595 [13288:5380:0408/201902.595:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.191 s for first_image_paint 0.175 s
+4월 08, 2024 20:19:02.997 [13288:5380:0408/201902.997:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.191 s for first_image_paint 0.175 s
+4월 08, 2024 20:19:03.203 [13288:5380:0408/201903.203:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.191 s for first_image_paint 0.175 s
+4월 08, 2024 20:19:03.306 [13288:5380:0408/201903.306:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.191 s for first_image_paint 0.175 s
+4월 08, 2024 20:19:03.417 [13288:5380:0408/201903.417:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.191 s for first_image_paint 0.175 s
+4월 08, 2024 20:19:03.536 [13288:5380:0408/201903.535:ERROR:page_load_metrics_update_dispatcher.cc(179)] Invalid first_paint 0.191 s for first_image_paint 0.175 s
+4월 08, 2024 20:21:13.984 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 08, 2024 20:25:40.372 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 08, 2024 20:32:10.84 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 08, 2024 20:40:11.192 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 09, 2024 09:14:44.789 NEW SESSION
+4월 09, 2024 09:14:44.789 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 10, 2024 13:02:06.936 NEW SESSION
+4월 10, 2024 13:02:06.936 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 10, 2024 14:59:22.217 NEW SESSION
+4월 10, 2024 14:59:22.217 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 11, 2024 09:25:27.556 NEW SESSION
+4월 11, 2024 09:25:27.556 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 09:25:58.965 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 11, 2024 10:13:11.900 NEW SESSION
+4월 11, 2024 10:13:11.900 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 10:17:06.119 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 10:33:24.560 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 10:49:22.607 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 10:51:01.942 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 11:11:06.301 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 11:21:57.113 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 11:22:41.656 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 11:23:00.558 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 11:28:57.328 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 11:34:02.860 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 11:36:34.593 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 12:17:44.874 [7852:15092:0411/121744.874:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 11, 2024 12:17:53.280 [7852:15092:0411/121753.280:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 11, 2024 12:20:20.598 [7852:15092:0411/122020.598:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 11, 2024 12:20:49.245 [7852:15092:0411/122049.244:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 11, 2024 12:23:16.968 [7852:15092:0411/122316.968:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 11, 2024 12:23:42.235 [7852:15092:0411/122342.235:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 11, 2024 12:26:10.22 [7852:15092:0411/122610.022:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 11, 2024 12:26:18.253 [7852:15092:0411/122618.252:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 11, 2024 12:28:46.98 [7852:15092:0411/122846.098:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 11, 2024 12:29:15.245 [7852:15092:0411/122915.244:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 11, 2024 12:31:43.159 [7852:15092:0411/123143.159:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 11, 2024 12:31:51.245 [7852:15092:0411/123151.245:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 11, 2024 12:34:19.116 [7852:15092:0411/123419.116:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 11, 2024 12:34:41.247 [7852:15092:0411/123441.247:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 11, 2024 12:37:08.880 [7852:15092:0411/123708.880:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 11, 2024 12:37:17.243 [7852:15092:0411/123717.243:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 11, 2024 12:39:45.20 [7852:15092:0411/123945.019:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 11, 2024 12:40:02.240 [7852:15092:0411/124002.239:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 11, 2024 12:42:30.118 [7852:15092:0411/124230.118:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 11, 2024 12:42:47.236 [7852:15092:0411/124247.235:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 11, 2024 12:45:14.930 [7852:15092:0411/124514.930:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 11, 2024 12:46:01.238 [7852:15092:0411/124601.237:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 11, 2024 12:48:29.81 [7852:15092:0411/124829.081:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 11, 2024 12:48:37.249 [7852:15092:0411/124837.249:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 11, 2024 12:51:05.53 [7852:15092:0411/125105.052:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 11, 2024 12:52:41.240 [7852:15092:0411/125241.240:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 11, 2024 12:55:09.46 [7852:15092:0411/125509.046:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 11, 2024 12:55:17.239 [7852:15092:0411/125517.239:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 11, 2024 12:57:45.53 [7852:15092:0411/125745.053:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 11, 2024 12:58:04.240 [7852:15092:0411/125804.240:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 11, 2024 13:00:32.105 [7852:15092:0411/130032.105:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 11, 2024 13:01:12.242 [7852:15092:0411/130112.241:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 11, 2024 13:44:19.746 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 14:32:20.386 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 15:05:10.135 [15856:15540:0411/150510.135:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 11, 2024 15:05:53.532 [15856:15540:0411/150553.532:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+
+4월 11, 2024 15:34:08.655 NEW SESSION
+4월 11, 2024 15:34:08.655 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 15:36:29.877 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 15:37:13.496 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 15:51:29.406 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 15:52:00.118 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 16:05:22.654 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 16:05:36.518 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 16:05:53.00 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 16:06:21.132 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 16:07:21.765 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 16:08:01.169 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 16:08:09.196 [12196:16496:0411/160809.196:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_ABORTED)
+4월 11, 2024 16:08:28.226 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 16:09:08.795 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 16:10:40.925 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 16:11:41.281 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 16:12:44.559 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 16:16:59.362 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 16:17:29.165 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 16:22:10.02 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 16:36:20.314 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 16:37:16.141 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 16:40:16.289 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 11, 2024 17:01:40.266 NEW SESSION
+4월 11, 2024 17:01:40.266 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 19:07:11.989 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 11, 2024 19:49:21.492 NEW SESSION
+4월 11, 2024 19:49:21.492 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 19:54:42.617 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 11, 2024 20:43:03.41 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 12, 2024 09:01:13.77 NEW SESSION
+4월 12, 2024 09:01:13.77 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 10:50:28.124 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 10:56:28.893 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 11:10:27.779 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 11:10:43.757 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 11:11:12.294 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 11:14:32.549 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 11:14:42.872 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 11:19:01.805 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 11:44:44.887 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 11:57:39.738 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 12:35:40.797 [2340:15532:0412/123540.797:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 12, 2024 12:37:03.254 [2340:15532:0412/123703.253:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 12, 2024 12:39:30.636 [2340:15532:0412/123930.636:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 12, 2024 12:44:11.947 [2340:15532:0412/124411.946:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 12, 2024 12:44:50.243 [2340:15532:0412/124450.243:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 12, 2024 12:47:17.980 [2340:15532:0412/124717.980:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 12, 2024 12:49:09.237 [2340:15532:0412/124909.237:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 12, 2024 12:51:37.52 [2340:15532:0412/125137.052:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 12, 2024 12:51:55.244 [2340:15532:0412/125155.244:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 12, 2024 12:54:23.91 [2340:15532:0412/125423.090:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 12, 2024 12:55:46.241 [2340:15532:0412/125546.240:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 12, 2024 12:58:13.957 [2340:15532:0412/125813.956:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 12, 2024 13:01:33.233 [2340:15532:0412/130133.233:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 12, 2024 13:01:33.233 [2340:10472:0412/130133.233:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+4월 12, 2024 13:07:24.467 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 14:03:48.630 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 14:04:21.472 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 14:15:35.419 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 14:22:17.660 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 14:28:40.269 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 14:29:31.191 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 14:32:55.871 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 15:02:20.790 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 15:10:28.927 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 15:48:04.756 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 15:49:13.727 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 15:52:37.464 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 15:55:09.163 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 15:59:15.114 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 16:09:18.476 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 16:12:44.88 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 16:15:09.779 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 16:50:27.460 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 12, 2024 17:26:31.124 [14544:8232:0412/172631.123:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 12, 2024 17:27:04.248 [14544:8232:0412/172704.248:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 12, 2024 17:29:27.113 [14544:8232:0412/172927.113:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 12, 2024 17:29:40.249 [14544:8232:0412/172940.248:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 12, 2024 17:32:08.27 [14544:8232:0412/173208.027:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 12, 2024 17:33:17.280 [14544:8232:0412/173317.280:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 12, 2024 17:35:45.30 [14544:8232:0412/173545.029:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 12, 2024 17:36:00.241 [14544:8232:0412/173600.240:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 12, 2024 17:38:28.09 [14544:8232:0412/173828.009:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 12, 2024 17:40:26.263 [14544:8232:0412/174026.263:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 12, 2024 17:42:53.926 [14544:8232:0412/174253.926:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 12, 2024 17:44:58.598 [14544:8232:0412/174454.268:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 12, 2024 17:47:21.952 [14544:8232:0412/174721.951:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 12, 2024 17:47:55.239 [14544:8232:0412/174755.239:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 12, 2024 18:17:04.702 [14544:17356:0412/181704.701:ERROR:interface_endpoint_client.cc(707)] Message 1 rejected by interface blink.mojom.WidgetHost
+4월 12, 2024 18:17:18.953 [14544:17356:0412/181718.952:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+4월 12, 2024 18:17:40.100 [14544:17356:0412/181740.100:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+4월 12, 2024 18:17:46.961 [14544:17356:0412/181746.961:ERROR:interface_endpoint_client.cc(707)] Message 0 rejected by interface blink.mojom.WidgetHost
+4월 12, 2024 19:01:23.05 [14544:8232:0412/190123.004:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 12, 2024 19:05:53.263 [14544:8232:0412/190553.262:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 12, 2024 19:08:16.110 [14544:8232:0412/190816.110:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 12, 2024 19:15:55.247 [14544:8232:0412/191555.247:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 12, 2024 19:18:22.899 [14544:8232:0412/191822.899:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 12, 2024 19:31:20.247 [14544:8232:0412/193120.247:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 12, 2024 19:33:48.67 [14544:8232:0412/193348.067:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 12, 2024 19:45:23.270 [14544:8232:0412/194523.270:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 12, 2024 19:47:50.844 [14544:8232:0412/194750.844:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 12, 2024 19:50:44.252 [14544:8232:0412/195044.251:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 12, 2024 19:53:11.920 [14544:8232:0412/195311.920:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 12, 2024 19:54:17.240 [14544:8232:0412/195417.240:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 12, 2024 19:56:44.960 [14544:8232:0412/195644.960:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 12, 2024 19:59:37.259 [14544:8232:0412/195937.259:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 12, 2024 20:15:04.837 [14544:8232:0412/201504.837:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 12, 2024 20:18:17.242 [14544:8232:0412/201817.242:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 12, 2024 20:20:44.865 [14544:8232:0412/202044.865:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 12, 2024 20:22:17.242 [14544:8232:0412/202217.242:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+
+4월 13, 2024 18:33:26.521 NEW SESSION
+4월 13, 2024 18:33:26.521 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 13, 2024 18:33:46.711 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 13, 2024 18:33:58.347 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 13, 2024 18:34:17.352 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 13, 2024 18:34:32.644 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 13, 2024 18:34:40.518 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 13, 2024 18:37:42.925 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 13, 2024 18:40:08.494 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 13, 2024 20:02:05.203 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 14, 2024 17:04:09.412 NEW SESSION
+4월 14, 2024 17:04:09.412 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 14, 2024 17:13:07.628 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 14, 2024 17:16:21.425 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 14, 2024 17:23:09.498 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 15, 2024 19:49:17.683 NEW SESSION
+4월 15, 2024 19:49:17.683 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 15, 2024 19:52:22.96 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 15, 2024 20:00:41.633 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 16, 2024 12:11:16.262 NEW SESSION
+4월 16, 2024 12:11:16.262 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 16, 2024 12:45:00.423 [11364:12468:0416/124500.423:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 16, 2024 13:22:32.124 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 16, 2024 13:38:17.983 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 17, 2024 09:09:46.395 NEW SESSION
+4월 17, 2024 09:09:46.395 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 17, 2024 12:32:15.844 [19312:3156:0417/123215.843:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 17, 2024 12:34:15.245 [19312:3156:0417/123415.244:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 17, 2024 12:36:42.476 [19312:3156:0417/123642.476:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 17, 2024 12:41:17.722 [19312:3156:0417/124117.722:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 17, 2024 12:42:00.232 [19312:3156:0417/124200.232:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 17, 2024 12:44:28.77 [19312:3156:0417/124428.077:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 17, 2024 12:48:40.254 [19312:3156:0417/124840.254:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 17, 2024 12:51:07.794 [19312:3156:0417/125107.794:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 17, 2024 12:52:10.244 [19312:3156:0417/125210.244:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 17, 2024 12:54:37.749 [19312:3156:0417/125437.748:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 17, 2024 12:56:36.247 [19312:3156:0417/125636.247:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 17, 2024 12:59:03.889 [19312:3156:0417/125903.888:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 17, 2024 13:03:02.596 [19312:3156:0417/130302.596:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 17, 2024 17:19:30.12 [19312:3156:0417/171930.012:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 17, 2024 17:19:52.602 [19312:3156:0417/171952.602:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 17, 2024 21:02:45.52 [19312:3156:0417/210245.051:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+4월 17, 2024 21:12:45.248 [19312:7132:0417/211241.545:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_INTERNET_DISCONNECTED)
+4월 17, 2024 21:12:45.325 [19312:3156:0417/211241.568:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+4월 17, 2024 22:05:10.298 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 21, 2024 13:27:47.680 NEW SESSION
+4월 21, 2024 13:27:47.680 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+7월 19, 2024 11:41:47.900 NEW SESSION
+7월 19, 2024 11:41:47.900 Created TensorFlow Lite XNNPACK delegate for CPU.
+7월 19, 2024 11:42:08.874 [13836:8896:0719/114208.873:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+7월 19, 2024 11:42:58.544 [13836:8896:0719/114258.543:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -118
+7월 19, 2024 12:37:16.387 [13836:8896:0719/123716.387:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+7월 19, 2024 13:02:42.220 [13836:8896:0719/130238.505:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+7월 19, 2024 13:02:42.294 [13836:8896:0719/130238.619:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+7월 19, 2024 14:58:28.924 [13836:8896:0719/145828.924:ERROR:connection_factory_impl.cc(483)] ConnectionHandler failed with net error: -2
+7월 19, 2024 15:01:05.694 [13836:8896:0719/150105.694:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+7월 19, 2024 15:01:09.605 [13836:8896:0719/150105.712:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+7월 19, 2024 16:36:37.930 [13836:1568:0719/163637.930:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost
+7월 19, 2024 16:36:37.931 [13836:1568:0719/163637.930:ERROR:interface_endpoint_client.cc(722)] Message 1 rejected by interface blink.mojom.WidgetHost
+7월 19, 2024 17:45:40.46 [13836:1568:0719/174540.046:ERROR:gpu_process_host.cc(1002)] GPU process exited unexpectedly: exit_code=1
